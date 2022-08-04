@@ -2,13 +2,11 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whtjtjddn)](https://github.com/anuraghazra/github-readme-stats)
 
-Use Language
-<br>
+### Use Language
 <br>
 ![Badge](https://img.shields.io/badge/Flutter-000000.svg?&logo=Flutter&logoColor=#02569B)&nbsp;  ![Badge](https://img.shields.io/badge/Kotlin-000000.svg?&logo=Kotlin&logoColor=#7F52FF)&nbsp;    ![Badge](https://img.shields.io/badge/Unity-000000.svg?&logo=Unity&logoColor=#FFFFFF)
 
-Contact
-<br>
+### Contact
 <br>
 PhoneNumber : 010-4130-2035
 <br>
@@ -19,8 +17,8 @@ E-mail : whtjtjddn@naver.com
 <br>
 <br>
 <br>
-Resume
-<br><br>
+### Resume
+<br>
 🏫 &nbsp;Sejong Univ Computer Major ( 2016 ~ 2022 )
 <br><br>
 🏢 &nbsp;HeartSafety [ Unity ] ( 2021 ~ 2022 )
