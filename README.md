@@ -21,11 +21,11 @@ E-mail : whtjtjddn@naver.com
 <br>
 Resume
 <br><br>
-🏫 Sejong Univ Computer Major ( 2016 ~ 2022 )
+🏫 &nbsp;Sejong Univ Computer Major ( 2016 ~ 2022 )
 <br><br>
-🏢 HeartSafety [ Unity ] ( 2021 ~ 2022 )
+🏢 &nbsp;HeartSafety [ Unity ] ( 2021 ~ 2022 )
 <br><br>
-🏢 X-Widget [ Flutter & BlockChain ] ( 2022 ~ )
+🏢 &nbsp;X-Widget [ Flutter & BlockChain ] ( 2022 ~ )
 <br><br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shaawn)](https://solved.ac/shaawn)
