@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.notion.so/c237f509f86e41f69a9f3608367e92bc" target="_blank">![Badge](https://img.shields.io/badge/Notion-000000.svg?&logo=Notion&logoColor=#000000) </a><a href="https://www.instagram.com/climb_developer/" target="_blank">![Badge](https://img.shields.io/badge/Instagram-FFFFFF.svg?&logo=Instagram&logoColor=#E4405F) </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whtjtjddn)](https://github.com/whtjtjddn/github-readme-stats)
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shaawn)](https://solved.ac/shaawn)
