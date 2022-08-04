@@ -20,11 +20,11 @@ E-mail : whtjtjddn@naver.com
 <br>
 <br>
 Resume
-<br>
+<br><br>
 HeartSafety UnityProgrammer ( 2021 ~ 2022 )
-<br>
+<br><br>
 X-Widget FlutterProgrammer ( 2022 ~ )
-<br>
+<br><br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shaawn)](https://solved.ac/shaawn)
 
