@@ -21,6 +21,8 @@ E-mail : whtjtjddn@naver.com
 <br>
 Resume
 <br><br>
+Sejong Univ Computer Major( 2016 ~ 2022 )
+<br><br>
 HeartSafety UnityProgrammer ( 2021 ~ 2022 )
 <br><br>
 X-Widget FlutterProgrammer ( 2022 ~ )
