@@ -25,8 +25,11 @@ E-mail : whtjtjddn@naver.com
 <br><br>
 🏢 &nbsp;HeartSafety [ Unity ] ( 2021 ~ 2022 )
 <br><br>
-🏢 &nbsp;X-Widget [ Flutter & BlockChain ] ( 2022 ~ )
+🏢 &nbsp;X-Widget [ Flutter & BlockChain ] ( 2022.05 ~ 2022.12 )
 <br><br>
+🏢 &nbsp;MakeStar [ Flutter ] ( 2023.01 ~ In Office )
+<br><br>
+
 <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shaawn)](https://solved.ac/shaawn) -->
 
