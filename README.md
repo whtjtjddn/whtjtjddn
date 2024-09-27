@@ -3,7 +3,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whtjtjddn)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{whtjtjddn}?pet-id=1" width="1000" height="120"/>
 </a>
 
 ### Use Language
